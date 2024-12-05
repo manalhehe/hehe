@@ -1,18 +1,29 @@
+
 h1
 {
     text-align:center;
 }
-
-.div1
+h2
 {
-   width: 100px;
-   height: 100px;
-   background-color: black;
+    text-align: left;
+    color: rgb(235, 11, 11);
+    text-size-adjust: 50px;
 }
-.div2
+h3
 {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(190, 41, 41);
-    margin-top: 10px;
+    text-align: right;
+    color: blueviolet;
+}
+h4
+{
+    text-size-adjust: 50px;
+}
+
+img 
+{
+    background-size: cover;
+    background-position: unset;
+    width: 100%;
+    height: 400px;
+    background-position: center;
 }
